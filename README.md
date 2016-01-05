@@ -3,7 +3,7 @@
 Demo & setup Install Instructions
 =============================================
 
-Clone the repo: https://github.com/ArunTesco/React-ES6.git
+Clone the repo: https://github.com/vishwasc20/React-ES6.git
 
 Install packages: npm install
 
